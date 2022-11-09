@@ -8,7 +8,7 @@ Now, I am looking for new challenges and opportunities within a multinational co
 
 Personal information
 -------------------------------------------
-Mobile: +389 71 380 200	 	
+Mobile: +389 71 380 200	 	           
 Email: vladimir.mishev982@gmail.com
 
 Trainings and Workshops
