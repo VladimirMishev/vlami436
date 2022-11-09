@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Throughout all my years of dedication, commitment, and hard work, my focus has been to excel. I set high expectations and goals for myself and, having reached them, accumulated invaluable managerial experience. As an IT engineer, I participated in a variety of projects and created new products and services, always aiming not just to satisfy but anticipate clients’ every need.
+
+As the CEO of Studio 5, I have spent the last ten years growing my company into one of the biggest advertising companies in North Macedonia, which now boasts highly skilled teams and production lines. 
+
+Now, I am looking for new challenges and opportunities within a multinational company. My focus is to improve my development skills and cross through all development processes starting from the frontend, backend, and databases.
+
 <!--
 **vlami436/vlami436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
