@@ -14,6 +14,7 @@ Email: vladimir.mishev982@gmail.com
 Trainings and Workshops
 ------------------------------------------
 *Git & GitHub – The Practical Guide	October 2022
+
 *MongoDB – The Complete Developer’s Guide 2022	September 2022
 *CSS – The Complete Guide 2022 (incl. Flexbox, Grid & Sass)	July 2022
 *Understanding TypeScript – 2022 Edition	June 2022
@@ -29,10 +30,10 @@ Trainings and Workshops
 
 Computer Knowledge
 ----------------------------------------
-Programming languages:	Pascal, C, C++, C#, HTML, XML, CCS, JavaScript, Angular, TypeScript
-Databases:	MySQL, SQL, MongoDB
-Internet technology:	Mozilla, Opera, Internet Explorer, Chrome
-Applications:	CorelDraw, MS Office, Adobe Photoshop, Adobe Illustrator, Dreamweaver, Microsoft Project Professional, WordPress
+--Programming languages:	Pascal, C, C++, C#, HTML, XML, CCS, JavaScript, Angular, TypeScript
+--Databases:	MySQL, SQL, MongoDB
+--Internet technology:	Mozilla, Opera, Internet Explorer, Chrome
+--Applications:	CorelDraw, MS Office, Adobe Photoshop, Adobe Illustrator, Dreamweaver, Microsoft Project Professional, WordPress
 
 Languages
 ----------------------------------------
